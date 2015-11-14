@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/libs/android-async-http-1.4.9.jar" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hotrasoftware/accountmanagerdemo/AccountAuthenticator.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hotrasoftware/accountmanagerdemo/AccountAuthenticatorService.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hotrasoftware/accountmanagerdemo/AccountGeneral.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hotrasoftware/accountmanagerdemo/AuthMainActivity.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hotrasoftware/accountmanagerdemo/SessionManager.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hotrasoftware/accountmanagerdemo/User.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/app_icon.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/xml" charset="windows-1252" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
